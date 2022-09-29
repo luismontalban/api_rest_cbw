@@ -1,3 +1,3 @@
 # API REST NodeJS, Express, MongoDB
 
-Repositoria API REST de prueba
+Repositorio API REST de prueba
